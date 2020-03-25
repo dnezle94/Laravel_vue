@@ -17,7 +17,7 @@ Duplicate `.env.example` and rename it `.env`
 
 Import database provided
 
-`dv/test.sql`
+`db/test.sql`
 
 Then run
 
